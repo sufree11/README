@@ -24,4 +24,3 @@ Outside of coding, you can find me delving into:
 
 Let's get along! 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sufree11)
