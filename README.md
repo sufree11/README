@@ -23,3 +23,5 @@ Outside of coding, you can find me delving into:
 * Gaming (Minecraft <img src="assets/mc.png" width=16px height=16px>, Persona <img src="assets/yukiko.gif" width=16px height=auto>, and more!)
 
 Let's get along! 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sufree11)
